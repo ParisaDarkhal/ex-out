@@ -93,13 +93,13 @@
   <meta name="route-pattern" content="/:user_id/:repository/raw/*name(/*path)" data-turbo-transient>
   <meta name="route-controller" content="blob" data-turbo-transient>
   <meta name="route-action" content="raw" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:32f95f33-77cd-ea86-fdf2-e12881db9256">
+  <meta name="fetch-nonce" content="v2:ee0c9234-94f5-966f-c1e2-c0a09fd799ae">
 
     
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="E671:2AA4E8:91790F:C59490:68C9C1B0" data-turbo-transient="true" /><meta name="html-safe-nonce" content="d100750163b8244b6cd7c30d846fcdef7bd1d3941b6ca6b80a28f912db63eb73" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkU2NzE6MkFBNEU4OjkxNzkwRjpDNTk0OTA6NjhDOUMxQjAiLCJ2aXNpdG9yX2lkIjoiMTcwMzYwNjQyNDc1ODIzOTY2NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="c34bdd59d6640e9ffd674229436c6dd7a3a56f75cecf839549462d902d8dce9c" data-turbo-transient="true" />
+  <meta name="request-id" content="D56A:909D:202D907:2C6D33C:68C9C1D4" data-turbo-transient="true" /><meta name="html-safe-nonce" content="4bdcc87ad84ddf0e984389a8f99d97777e5bb52eb7f8c1fa1b416bfd22de88f0" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkQ1NkE6OTA5RDoyMDJEOTA3OjJDNkQzM0M6NjhDOUMxRDQiLCJ2aXNpdG9yX2lkIjoiMTQyODYzODM0OTI3MDgyNzQ3NiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="903b4617b5ec496254c3f219da607e9551a6b408050e139757d3e79b8f921452" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:134035452" data-turbo-transient>
@@ -108,7 +108,7 @@
   <meta name="github-keyboard-shortcuts" content="copilot" data-turbo-transient="true" />
   
 
-  <meta name="selected-link" value="/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json" data-turbo-transient>
+  <meta name="selected-link" value="/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
 
     <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
@@ -136,7 +136,7 @@
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin" />
 
       <meta property="og:url" content="https://github.com">
   <meta property="og:site_name" content="GitHub">
@@ -193,7 +193,7 @@
 
 
 
-      <link rel="canonical" href="https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json" data-turbo-transient>
+      <link rel="canonical" href="https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin" data-turbo-transient>
 
 
     <meta name="turbo-body-classes" content="logged-out env-production page-responsive min-height-full d-flex flex-column">
@@ -287,19 +287,19 @@
 
       <div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
           <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-weights_manifest.json"
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-shard2.bin"
             class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8b141e485e38167a988d00684996756c9a3df547cd92d6690734627ac0838181"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4d9ce023d82ff5731cec1bc151a2f3a546aec3c49a2adab7dfb95a47358a85b9"
             data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
           >
             Sign in
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-3f560d89-437c-470c-bf91-5d21847d1769" aria-labelledby="tooltip-53e85384-9019-41dd-9be0-1196fb99db34" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-7188a25a-770a-45bd-ad53-461c8299b8d8" aria-labelledby="tooltip-b3f8e505-8dc2-455d-a891-bd822424d0e5" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-53e85384-9019-41dd-9be0-1196fb99db34" for="icon-button-3f560d89-437c-470c-bf91-5d21847d1769" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-b3f8e505-8dc2-455d-a891-bd822424d0e5" for="icon-button-7188a25a-770a-45bd-ad53-461c8299b8d8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.6397ce2f59690f565865.module.css" />
@@ -1057,7 +1057,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="owner:justadudewhohacks" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="b_LW3XiNY90K5PPQfRnPvygw-lyfp5zbcB6VNzzHhWQ_60lH4bvQu5YQRtJXzlQ0sjPCI8p93U99M7oJA-O3wA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="owner:justadudewhohacks" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="GnqmdjmBp0JaXDUrGLlOGErqaJxz3r7D1UsSmMtX1yUPG7LgIlFR9VGHyCcbMongzcyCsORByM5qiTEaYbAx1A" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="" data-current-org="" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -1121,7 +1121,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-f6bff9da-e8a1-44ee-b1aa-383e81f8e7ab" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-7ac42118-6ddb-4312-b93f-24a62bf6d09e" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1359,7 +1359,7 @@
                   tabindex="-1"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-f6bff9da-e8a1-44ee-b1aa-383e81f8e7ab" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-7ac42118-6ddb-4312-b93f-24a62bf6d09e" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1400,7 +1400,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hCmEFgONp0XcXAasr10rJHYPBNLYccbakSji4nWR9WMOdF3FlrvHBp0nJBf3ikBFHbwBzWzF4gsLYadEOdygOw" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="arS6rNRRnIjKVaLQ9SAwO11hLlAUygNTHPx3U-yYg_chS3sQH-6XaeyJMMlh1N92kigr0Ls890kqeJ-xU3jJKA" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1438,7 +1438,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oaCJkHYtIcm-gaxss6N8wzvt5ksXQm5bmhn1w4BJfyJ5kCJQE7pnfOEy4iqr5P0OtokH0EI7jMVTJeI9PQkPrw" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SWPrulv_IKeg2Fs9eE6u9smVgGlnqjbEcjqbOJHFa86dh4eNODK_xufy8c2_YqSYzIYgU3mtkISxqT_zcDVJwA" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1456,7 +1456,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="nw6efSbv0nBE3gzlfQT0emtfBMAibC9YBJb9o7evCFeDVzHKMesdfyLI9tKsSSNM_GEbT-1pKdoVvODDTfRFcQ" data-csrf="true" />
+              <input type="hidden" value="xOUMZ6RHsFgHmxn_f7SijF36i3_VlDbWIQbx9na4aGRYoA_6bQrg0dwpY_pHekQw9ao8Bt6AqbxKrQHFAv3waw" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -1498,10 +1498,10 @@
 
             <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
               <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-weights_manifest.json"
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-shard2.bin"
                 class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1"
                 style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8b141e485e38167a988d00684996756c9a3df547cd92d6690734627ac0838181"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4d9ce023d82ff5731cec1bc151a2f3a546aec3c49a2adab7dfb95a47358a85b9"
                 data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
               >
                 Sign in
@@ -1511,7 +1511,7 @@
     <h4 data-view-component="true" class="color-fg-default mb-2">                    Sign in to GitHub
 </h4>
                         
-<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tkriTI_yVOn82ZvWMJa3DSt4GmaOeb8GeLuHEAaG6vMIAsBBIMCHPKy_I1sbWYhgxVlhyMR7GLJke5KtiBNiOQ" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/session" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="A8Rsl-2u7qCNcap74sd1g-cimwcj3VHCiYqM7BVzfD2SvAIW193xhDm1hRSsA2YXuglVxGInrRWnC0ekFj-uDA" />  <input type="hidden" name="add_account" id="add_account" autocomplete="off" class="form-control" />
 
     <label for="login_field">
       Username or email address
@@ -1529,17 +1529,17 @@
 <input type="hidden" class="js-support" name="javascript-support" value="unknown">
 <input type="hidden" class="js-webauthn-support" name="webauthn-support" value="unknown">
 <input type="hidden" class="js-webauthn-iuvpaa-support" name="webauthn-iuvpaa-support" value="unknown">
-<input type="hidden" name="return_to" id="return_to" value="https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json" autocomplete="off" class="form-control" />
+<input type="hidden" name="return_to" id="return_to" value="https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin" autocomplete="off" class="form-control" />
 <input type="hidden" name="allow_signup" id="allow_signup" autocomplete="off" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" autocomplete="off" class="form-control" />
 <input type="hidden" name="integration" id="integration" autocomplete="off" class="form-control" />
-<input type="text" name="required_field_541d" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1758052784583" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="7c676755be82ca40d199d755cfdcf28e6273f262c8b7a98be270a3fcc2d737f3" autocomplete="off" class="form-control" />
+<input type="text" name="required_field_7f0a" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1758052820547" autocomplete="off" class="form-control" /><input type="hidden" name="timestamp_secret" value="584b1ce6db69745f0574e38c32b16be3e71f4e9773933bdaa89a91f942314eed" autocomplete="off" class="form-control" />
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block js-sign-in-button" data-disable-with="Signing in…" data-signin-label="Sign in" data-sso-label="Sign in with your identity provider" development="false" disable-emu-sso="false" />
   </div>
 </form>  <webauthn-status class="js-webauthn-login-emu-control">
         <div data-target="webauthn-status.partial" class="d-flex flex-justify-between flex-column mt-3 mb-0" hidden>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-weights_manifest.json" data-analytics-event="{&quot;category&quot;:&quot;passkey_404_login&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-shard2.bin" data-analytics-event="{&quot;category&quot;:&quot;passkey_404_login&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:null}" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
     <span class="Button-label">or continue with other methods</span>
   </span>
 </a>
@@ -1549,20 +1549,20 @@
 
 </div></div>            </div>
 
-              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-weights_manifest.json&amp;source=header"
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fjustadudewhohacks%2Fface-api.js%2Fraw%2Fmaster%2Fweights%2Fface_detection_model-shard2.bin&amp;source=header"
                 class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8b141e485e38167a988d00684996756c9a3df547cd92d6690734627ac0838181"
-                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-weights_manifest.json;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4d9ce023d82ff5731cec1bc151a2f3a546aec3c49a2adab7dfb95a47358a85b9"
+                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/justadudewhohacks/face-api.js/raw/master/weights/face_detection_model-shard2.bin;ref_cta:Sign up;ref_loc:header logged out&quot;}"
               >
                 Sign up
               </a>
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-7432469b-8beb-4bc2-84c5-60284c0afa7b" aria-labelledby="tooltip-2040a962-5962-4c0a-98c0-955d34213a77" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-999e11e0-fa3e-4149-994d-a60af85e596b" aria-labelledby="tooltip-fcdd3381-1ca9-4646-aa64-ce1f78295f92" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-2040a962-5962-4c0a-98c0-955d34213a77" for="icon-button-7432469b-8beb-4bc2-84c5-60284c0afa7b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-fcdd3381-1ca9-4646-aa64-ce1f78295f92" for="icon-button-999e11e0-fa3e-4149-994d-a60af85e596b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.6397ce2f59690f565865.module.css" />
@@ -1600,10 +1600,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-986ab252-08b8-4d13-becc-50479fb0d434" aria-labelledby="tooltip-4afe57b1-12fb-41b8-9f5d-0d9ca6ad02e5" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-597687d0-920b-44d6-86f3-61956708f3b8" aria-labelledby="tooltip-5edcdfe9-1096-49b9-a77f-9e5e1cf06c09" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-4afe57b1-12fb-41b8-9f5d-0d9ca6ad02e5" for="icon-button-986ab252-08b8-4d13-becc-50479fb0d434" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-5edcdfe9-1096-49b9-a77f-9e5e1cf06c09" for="icon-button-597687d0-920b-44d6-86f3-61956708f3b8" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
